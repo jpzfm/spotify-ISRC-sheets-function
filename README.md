@@ -12,7 +12,3 @@ or
 ```
 =spotifyISRC(A1)
 ```
-
----
-
-Made with help from chatGPT.
